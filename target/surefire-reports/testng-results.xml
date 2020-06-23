@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15537" started-at="2020-04-28T11:31:47 IST" finished-at="2020-04-28T11:32:03 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15537" started-at="2020-04-28T11:31:47 IST" finished-at="2020-04-28T11:32:03 IST">
+      <class name="qaclickacademy.JavaTest">
+        <test-method status="PASS" signature="See()[pri:0, instance:qaclickacademy.JavaTest@4e9ba398]" name="See" duration-ms="1" started-at="2020-04-28T11:32:03 IST" finished-at="2020-04-28T11:32:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- See -->
+      </class> <!-- qaclickacademy.JavaTest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:qaclickacademy.SeleniumTest@2286778]" name="Demo" duration-ms="15466" started-at="2020-04-28T11:31:47 IST" finished-at="2020-04-28T11:32:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
